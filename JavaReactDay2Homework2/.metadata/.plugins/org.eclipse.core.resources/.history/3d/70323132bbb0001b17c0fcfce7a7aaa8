@@ -1,0 +1,12 @@
+package interfaceAbstractDemo.concrete;
+
+import interfaceAbstractDemo.Abstract.BaseCustomerManager;
+import interfaceAbstractDemo.entities.Customer;
+
+public class StarbucksCustomerManager extends BaseCustomerManager{
+	@Override
+	public void save(Customer customer) {
+		System.out.println("Saved to db : " + customer.getFirstName());
+	}
+
+}

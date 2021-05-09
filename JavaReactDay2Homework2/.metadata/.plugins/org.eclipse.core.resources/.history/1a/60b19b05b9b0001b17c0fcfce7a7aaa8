@@ -1,0 +1,23 @@
+package interfaceAbstractDemo;
+
+import interfaceAbstractDemo.Abstract.BaseCustomerManager;
+import interfaceAbstractDemo.concrete.NeroCustomerManager;
+import interfaceAbstractDemo.entities.Customer;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		Customer customer = new Customer();
+		customer.setId(1);
+		customer.setFirstName("Mustafa");
+		customer.setLastName("Yeþil");
+		customer.setDateOfBirth(1999, 07, 06);
+		
+		
+		BaseCustomerManager customerManager = new NeroCustomerManager();
+		customerManager.save();
+
+	}
+
+}

@@ -1,0 +1,5 @@
+package interfaceAbstractDemo.concrete;
+
+public class CustomerCheckManager {
+
+}

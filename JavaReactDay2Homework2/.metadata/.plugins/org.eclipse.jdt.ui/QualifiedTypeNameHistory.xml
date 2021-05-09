@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="interfaceAbstractDemo.Abstract.IEntity"/>
+    <fullyQualifiedTypeName name="com.sun.org.apache.xml.internal.security.utils.Base64"/>
+    <fullyQualifiedTypeName name="interfaceAbstractDemo.Abstract.BaseCustomerManager"/>
+    <fullyQualifiedTypeName name="interfaceAbstractDemo.concrete.NeroCustomerManager"/>
+    <fullyQualifiedTypeName name="java.time.LocalDate"/>
+    <fullyQualifiedTypeName name="interfaceAbstractDemo.entities.Customer"/>
+    <fullyQualifiedTypeName name="interfaceAbstractDemo.concrete.StarbucksCustomerManager"/>
+    <fullyQualifiedTypeName name="interfaceAbstractDemo.ICustomerService"/>
+    <fullyQualifiedTypeName name="interfaceAbstractDemo.Abstract.ICustomerService"/>
+    <fullyQualifiedTypeName name="interfaceAbstractDemo.Abstract.ICustomerCheckService"/>
+    <fullyQualifiedTypeName name="interfaceAbstractDemo.concrete.CustomerCheckManager"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\javaHomeworks\JavaReactDay2Homework2\.metadata\.plugins\org.eclipse.jdt.core
+3117236116.index
+2484661052.index
+1642175237.index

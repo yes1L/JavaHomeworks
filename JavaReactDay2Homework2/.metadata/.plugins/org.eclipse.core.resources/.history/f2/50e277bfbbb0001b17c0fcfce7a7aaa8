@@ -1,0 +1,7 @@
+package interfaceAbstractDemo.Abstract;
+
+import interfaceAbstractDemo.entities.Customer;
+
+public interface ICustomerCheckService {
+	void checkIfRealPerson(Customer customer);
+}
