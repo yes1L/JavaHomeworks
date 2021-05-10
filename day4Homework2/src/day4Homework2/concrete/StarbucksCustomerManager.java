@@ -1,7 +1,7 @@
 package day4Homework2.concrete;
 
-import day4Homework2.abstract.BaseCustomerManager;
-import day4Homework2.abstract.CustomerCheckService;
+import day4Homework2.abstracts.BaseCustomerManager;
+import day4Homework2.abstracts.CustomerCheckService;
 import day4Homework2.entities.Customer;
 
 public class StarbucksCustomerManager extends BaseCustomerManager{
@@ -20,6 +20,5 @@ public class StarbucksCustomerManager extends BaseCustomerManager{
 		}else {
 			System.out.println("Müþteri kayýt edilemedi.");
 		}
-		
-		
 	}
+}

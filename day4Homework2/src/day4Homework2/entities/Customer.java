@@ -2,7 +2,7 @@ package day4Homework2.entities;
 
 import java.time.LocalDate;
 
-import day4Homework2.Entity;
+import day4Homework2.abstracts.Entity;
 
 public class Customer implements Entity{
 	int id;

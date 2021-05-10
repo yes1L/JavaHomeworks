@@ -1,4 +1,4 @@
-package day4Homework2;
+package day4Homework2.abstracts;
 
 public interface Entity {
 

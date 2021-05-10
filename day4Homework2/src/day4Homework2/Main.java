@@ -2,12 +2,12 @@ package day4Homework2;
 
 import java.time.LocalDate;
 
-import interfaceAbstractDemo.Abstract.BaseCustomerManager;
-import interfaceAbstractDemo.Abstract.ICustomerService;
-import interfaceAbstractDemo.concrete.CustomerCheckManager;
-import interfaceAbstractDemo.concrete.NeroCustomerManager;
-import interfaceAbstractDemo.concrete.StarbucksCustomerManager;
-import interfaceAbstractDemo.entities.Customer;
+import day4Homework2.abstracts.BaseCustomerManager;
+import day4Homework2.abstracts.CustomerService;
+import day4Homework2.concrete.CustomerCheckManager;
+import day4Homework2.concrete.NeroCustomerManager;
+import day4Homework2.concrete.StarbucksCustomerManager;
+import day4Homework2.entities.Customer;
 
 public class Main {
 
